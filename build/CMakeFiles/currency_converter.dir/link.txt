@@ -1,0 +1,1 @@
+/usr/bin/gcc -g CMakeFiles/currency_converter.dir/currency_converter.c.o -o currency_converter 

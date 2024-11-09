@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/abstract/projects/tutorial2/Task_6/build",
+  "command": "/usr/bin/gcc   -g -std=gnu99 -o CMakeFiles/currency_converter.dir/currency_converter.c.o -c /home/abstract/projects/tutorial2/Task_6/currency_converter.c",
+  "file": "/home/abstract/projects/tutorial2/Task_6/currency_converter.c",
+  "output": "CMakeFiles/currency_converter.dir/currency_converter.c.o"
+}
+]
